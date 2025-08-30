@@ -31,4 +31,4 @@ The interactive Power BI dashboard provides insights on transaction volume, type
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/)
